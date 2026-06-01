@@ -45,11 +45,6 @@
   <img src="https://streak-stats.demolab.com?user=Skyborg141&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Skyborg141&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Skyborg141&theme=radical&hide_border=true" />
-</p>
-
 ---
 ## 🎯 Goals
 - 💻 Master **Full Stack Web Development** and build scalable, production-ready applications
