@@ -1,7 +1,6 @@
 <h1 align="center" style="color: #FF69B4;">Hey there!👋 I'm Shouvik Banerjee Argha</h1>  
 ✨🎓 Computer Science & Engineering graduate from BRAC University
 💻 Passionate about Web Development, Machine Learning, AI and SQA
-🌱 Always exploring new technologies and building scalable solutions🌍
 
 ## 🚀 Skills
 
@@ -41,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skyborg141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyborg141&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Skyborg141&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
