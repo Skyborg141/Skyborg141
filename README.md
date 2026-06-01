@@ -36,7 +36,15 @@
   - Built a full API testing suite in Postman covering 32 requests across four service modules, with JWT Bearer token automation and a structured test report.
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skyborg141&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Skyborg141&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 ## 🎯 Goals
 - 💻 Master **Full Stack Web Development** and build scalable, production-ready applications
