@@ -36,7 +36,21 @@
   - Built a full API testing suite in Postman covering 32 requests across four service modules, with JWT Bearer token automation and a structured test report.
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-20-tokyonight?style=for-the-badge&logo=github&logoColor=white&color=1a1b27&labelColor=414868" />
+  <img src="https://img.shields.io/badge/Followers-6-blue?style=for-the-badge&logo=github&logoColor=white&color=1a1b27&labelColor=414868" />
+  <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=github&logoColor=white&color=1a1b27&labelColor=414868" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 ---
 ## 🎯 Goals
 - 💻 Master **Full Stack Web Development** and build scalable, production-ready applications
