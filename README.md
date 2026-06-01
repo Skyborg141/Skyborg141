@@ -36,6 +36,20 @@
   - Designed and executed 59+ manual test cases across core app modules including Sign In, Insurance, Community, and Bookings, ensuring comprehensive functional coverage.
   - Built a full API testing suite in Postman covering 32 requests across four service modules, with JWT Bearer token automation and a structured test report.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Adib1133&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adib1133&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adib1133&theme=redical&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
 
 ## 🎯 Goals
