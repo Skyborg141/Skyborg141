@@ -10,7 +10,7 @@
 | **Programming Languages** | Python, JavaScript, PHP |
 | **Databases** | MySQL, MongoDB |
 | **Machine Learning & AI** | TensorFlow, PyTorch, ML/DL, GenAI, Artificial Intelligence, Prompt Engineering, Simulation & Modeling |
-| **Tools & Platforms** | Git/GitHub, Agile, SDLC, STLC, Vite, ESLint, Office 365, Linux, Windows, Postman, Selenium, JIRA |
+| **Tools & Platforms** | Git/GitHub, Agile, SDLC, STLC, Vite, Office 365, Linux, Windows, Postman, Selenium, JIRA |
 | **Soft Skills** | Problem Solving, Critical Thinking, Project Management, Troubleshooting |
 ---
 
