@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #FF69B4;">Hey there!👋 I'm Shouvik Banerjee Argha</h1>  
-✨🎓 Computer Science & Engineering graduate from BRAC University
+✨🎓 Computer Science & Engineering graduate from BRAC University (/n)
 💻 Enthusiastic about Web Development, Machine Learning, AI, and Software Quality Assurance.
 
 ## 🚀 Skills
