@@ -18,7 +18,7 @@
 ## 🛠 Featured Projects
 
 - 🏥 [**Heart Disease Prediction**](https://github.com/Skyborg141/Heart-Disease-Prediction) — Binary classification model to predict heart disease from 14 clinical features using EDA, preprocessing, and ML algorithms on the UCI dataset. *(Python, Jupyter Notebook, Scikit-learn, pandas)*
-- 
+  
 - 🔒 [**Online Security System**](https://github.com/Skyborg141/Online-Security-System) — Full-stack e-commerce platform for purchasing security products (CCTV, lockers) with cart management, bKash payment integration, and admin panel. *(PHP, MySQL, Bootstrap, jQuery)*
 
 - 🌤️ [**AuroraWeather**](https://github.com/Skyborg141/Auroraweather) — Real-time browser-based weather app with city search, geolocation, hourly and 7-day forecasts, and animated sunrise/sunset visuals. *(HTML, CSS, JavaScript, OpenWeatherMap API, Vite)*
@@ -50,8 +50,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skyborg141.github.io/shouvikbanerjee/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouvikargha6529@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=P61uSVYAAAAJ&hl=en)
-
-
 
 
 ### Let's Connect 🤝:
