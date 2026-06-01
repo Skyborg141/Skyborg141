@@ -31,7 +31,7 @@
 
 ## 💼 Experience
 
-**Software Quality Assurance Intern** — B-Trac Solutions, Banani Road no. 11, Bangladesh *(02/2026 - 05/2026 )*
+**Software Quality Assurance Intern** — B-Trac Solutions *(02/2026 - 05/2026 )*
   - Designed and executed 59+ manual test cases across core app modules including Sign In, Insurance, Community, and Bookings, ensuring comprehensive functional coverage.
   - Built a full API testing suite in Postman covering 32 requests across four service modules, with JWT Bearer token automation and a structured test report.
 
