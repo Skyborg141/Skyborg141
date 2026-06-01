@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #FF69B4;">Hey there!👋 I'm Shouvik Banerjee Argha</h1>  
-<h2 align="center" style="color: #1E90FF;">✨🎓 Computer Science & Engineering graduate from BRAC University </h2>  
+✨🎓 Computer Science & Engineering graduate from BRAC University
 💻 Passionate about Web Development, Machine Learning, AI and SQA
-🌱 Always exploring new technologies and building scalable solutions🌍</h3>
+🌱 Always exploring new technologies and building scalable solutions🌍
 
 ## 🚀 Skills
 
@@ -36,22 +36,18 @@
   - Designed and executed 59+ manual test cases across core app modules including Sign In, Insurance, Community, and Bookings, ensuring comprehensive functional coverage.
   - Built a full API testing suite in Postman covering 32 requests across four service modules, with JWT Bearer token automation and a structured test report.
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adib1133&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skyborg141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyborg141&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adib1133&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyborg141&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adib1133&theme=redical&hide_border=true" alt="Activity Graph" />
-</p>
-
 ---
-
 ## 🎯 Goals
 - 💻 Master **Full Stack Web Development** and build scalable, production-ready applications
 - 🤖 Develop impactful **AI & Machine Learning** solutions that solve real-world problems
