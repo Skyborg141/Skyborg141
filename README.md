@@ -54,7 +54,7 @@
 - 💻 Master **Full Stack Web Development** and build scalable, production-ready applications
 - 🤖 Develop impactful **AI & Machine Learning** solutions that solve real-world problems
 - 🔍 Advance expertise in **Software Quality Assurance** and deliver reliable, bug-free software
----
+
 
 ## 🌐 Connect with Me
 
