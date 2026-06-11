@@ -47,7 +47,7 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skyborg141&bg_color=0d1117&color=ff4d94&line=ff4d94&point=f9d423&area=false&hide_border=true" />
 </p>
----
+
 
 ## 🎯 Goals
 
