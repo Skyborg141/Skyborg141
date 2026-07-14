@@ -15,8 +15,10 @@
 ---
 
 ## 🛠 Featured Projects
-
+- 🤖 [**Quattro AI**](https://github.com/Skyborg141/Quattro-AI) — Locally-hosted AI chatbot with streaming chat, RAG over documents, vision, code generation, image generation, and PDF reports, powered entirely by local Ollama models. *(Python, FastAPI, Ollama, ChromaDB, ReportLab)*
+  
 - 🧠 [**Attn-PatchGAN**](https://github.com/T2410211/Attn-PatchGAN) (Thesis) — Attention-enhanced PatchGAN model for image synthesis, combining adversarial, perceptual/content, and SSIM losses with a DenseNet-121 feature extractor and encoder-decoder backbone. *(Python, PyTorch, TensorFlow, OpenCV, Scikit-learn, Jupyter Notebook)*
+  
 - 🏥 [**Heart Disease Prediction**](https://github.com/Skyborg141/Heart-Disease-Prediction) — Binary classification model to predict heart disease from 14 clinical features using EDA, preprocessing, and ML algorithms on the UCI dataset. *(Python, Jupyter Notebook, Scikit-learn, pandas)*
   
 - 🔒 [**Online Security System**](https://github.com/Skyborg141/Online-Security-System) — Full-stack e-commerce platform for purchasing security products (CCTV, lockers) with cart management, bKash payment integration, and admin panel. *(PHP, MySQL, Bootstrap, jQuery)*
