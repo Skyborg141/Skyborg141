@@ -6,11 +6,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Web Development** | HTML5, CSS3, JavaScript, ReactJS, Angular, Vue, TypeScript, PHP, Laravel, Flask, Node.Js, Express.Js |
+| **Web Development** | HTML5, CSS3, JavaScript, ReactJS, Angular, Vue, TypeScript, Laravel, Flask, Node.Js, Express.Js |
 | **Programming Languages** | Python, JavaScript, PHP |
 | **Databases** | MySQL, MongoDB |
 | **Machine Learning & AI** | TensorFlow, PyTorch, ML/DL, GenAI, Artificial Intelligence, Prompt Engineering, Simulation & Modeling |
-| **Tools & Platforms** | Git/GitHub, Agile, SDLC, STLC, Vite, Office 365, Linux, Windows, Postman, Selenium, JIRA |
+| **Tools & Platforms** | Git/GitHub, Agile, SDLC, STLC, Vite, Office 365, Linux, Windows, Postman, JIRA |
 | **Soft Skills** | Problem Solving, Critical Thinking, Project Management, Troubleshooting |
 ---
 
