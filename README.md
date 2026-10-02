@@ -6,7 +6,7 @@
 
 | Category | Technologies |
 |---|---|
-| **Web Development** | HTML5, CSS3, JavaScript, ReactJS, Angular, Vue, TypeScript, Laravel, Flask, Node.Js, Express.Js |
+| **Web Development** | HTML5, CSS3, JavaScript, ReactJS, Angular, Vue, TypeScript, Laravel, Flask, Node.Js, Express.Js, REST API |
 | **Programming Languages** | Python, JavaScript, PHP |
 | **Databases** | MySQL, MongoDB |
 | **Machine Learning & AI** | TensorFlow, PyTorch, ML/DL, GenAI, Artificial Intelligence, Prompt Engineering, Simulation & Modeling |
